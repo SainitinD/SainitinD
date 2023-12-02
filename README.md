@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2 align="center">👋 Hey! I'm Sainitin</h2>
 
-<!--
-**SainitinD/SainitinD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student 🎓 at the Georgia Institute of Technology studying
 
-Here are some ideas to get you started:
+- 🖱️ **Computer Science** with a focus on Artificial Intelligence and Media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------
+
+<h3 align="center">🍎 About Me</h3>
+
+- 👟 Former Software Engineering Intern at [Nike](nike.com)
+- ⚡ Former Teacher Assistant & Senior Teacher Assistant for CS 2110: Computer Organization & Programming
+- 👨‍💻 Love working on backend/full-stack projects
+- ⚽ Love Soccer, Movies and Being Active
+- 📬 Reach out to me at [`s.daverpally@gmail.com`](mailto:s.daverpally@gmail.com) to chat!
+
+-------
+
+<h3 align="center">Take a look at my GitHub before you leave 😄</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SainitinD/github_stats/master/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/SainitinD/github_stats/master/generated/languages.svg" />
+</p>
+
