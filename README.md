@@ -16,7 +16,7 @@ I'm a student 🎓 at the Georgia Institute of Technology studying
 
 -------
 
-<h3 align="center">Take a look at my GitHub before you leave 😄</h3>
+<h3 align="center">Take a look at my GitHub before you leave 😄 (I plan to add repos in the coming weeks 😄😄)</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/SainitinD/github_stats/master/generated/overview.svg" />
   <img src="https://raw.githubusercontent.com/SainitinD/github_stats/master/generated/languages.svg" />
