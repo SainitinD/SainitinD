@@ -13,6 +13,7 @@ I'm a student 🎓 at the Georgia Institute of Technology studying
 - 👨‍💻 Love working on backend/full-stack projects
 - ⚽ Love Soccer, Movies and Being Active
 - 📬 Reach out to me at [`s.daverpally@gmail.com`](mailto:s.daverpally@gmail.com) to chat!
+- 🌐 Checkout my website ^^ -> sainitind.github.io
 
 -------
 
