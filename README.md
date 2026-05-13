@@ -2,7 +2,7 @@
 
 I'm an Ex Data Engineer / SWE who last worked at Nike and a Georiga Tech Alum 🎓.
 
-Feel free to checkout my github where I work on fun projects and checkout my website to learn more about me (don't be shy haha) :D
+Feel free to checkout my github where I work on fun projects and checkout [sainitind.github.io](https://www.sainitind.github.io) to learn more about me :D
 
 -------
 
