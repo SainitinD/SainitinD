@@ -1,15 +1,16 @@
 <h2 align="center">👋 Hey! I'm Sainitin</h2>
 
-I'm a student 🎓 at the Georgia Institute of Technology studying
+I'm an Ex Data Engineer / SWE who last worked at Nike and a Georiga Tech Alum 🎓.
 
-- 🖱️ **Computer Science** with a focus on Artificial Intelligence and Media
+Feel free to checkout my github where I work on fun projects and checkout my website to learn more about me (don't be shy haha) :D
 
 -------
 
 <h3 align="center">🍎 About Me</h3>
 
-- 👟 Former Software Engineering Intern at [Nike](nike.com)
-- ⚡ Former Teacher Assistant & Senior Teacher Assistant for CS 2110: Computer Organization & Programming
+- 👟 Former Data Engineeer and Software Engineering Intern at [Nike](nike.com)
+- 👟 Former Associate Software Engineer at [Amwins](amwins.com)
+- 🖱️ B.S from Georgia Tech in Computer Science with a focus on Artificial Intelligence and Media
 - 👨‍💻 Love working on backend/full-stack projects
 - ⚽ Love Soccer, Movies and Being Active
 - 📬 Reach out to me at [`s.daverpally@gmail.com`](mailto:s.daverpally@gmail.com) to chat!
